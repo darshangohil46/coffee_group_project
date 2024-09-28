@@ -1,0 +1,127 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css");
+/* For the entire scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* width of the scrollbar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Color of the track */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #00754A; /* Color of the scrollbar handle */
+  border-radius: 10px; /* Rounded corners */
+}
+
+
+
+body{
+  background-color: #EDEBE9;
+}
+.Order_Body{
+  background-color: rgba(255, 255, 255, 0.847);
+}
+
+.scrollbar-none::-webkit-scrollbar{
+  display: none;
+}
+.BOX{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.ADD_item_Btn{
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;}
+.item_container{
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+.item_container:hover{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  transform: scale(1.02);
+}
+.Add_item{
+  color: #e6e5e5;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  align-content: center;
+  cursor: pointer;
+}
+.Add_item:hover{
+     transform: scale(1.05);
+} 
+.scaleA{
+  animation: zoom 0.4s ease-in-out;
+} 
+.FontTitle{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.FontKCL{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.serch_body{
+  background-color: white;
+}
+@keyframes zoom {
+  from{
+     transform: scale(0);
+  }
+  to{
+    transform: scale(1);
+  }
+  
+}
+/* sweet alert Css ---------------------------------------------------------------------------------*/
+
+.swal-popup {
+  border-radius: 20px; /* Adjust border radius as needed */
+}
+.swal2-popup {
+  background-color: #ffffff; /* Background color */
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3); /* Shadow effect */
+}
+.swal-confirm {
+  background-color: #FF4757; /* Confirm button background */
+  color: white;              /* Text color */
+  padding: 10px 20px;        /* Padding */
+  border-radius: 5px;       /* Rounded corners */
+  font-weight: bold;         /* Bold text */
+  border: none;              /* No border */
+  cursor: pointer;           /* Pointer cursor */
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+}
+
+.swal-confirm:hover {
+  background-color: #FF6B81; /* Darker shade on hover */
+  transform: translateY(-2px); /* Lift effect */
+}
+
+.swal-cancel {
+  background-color: #1E90FF; /* Cancel button background */
+  color: white;              /* Text color */
+  padding: 10px 20px;        /* Padding */
+  border-radius: 5px;       /* Rounded corners */
+  font-weight: bold;         /* Bold text */
+  border: none;              /* No border */
+  cursor: pointer;           /* Pointer cursor */
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+}
+
+.swal-cancel:hover {
+  background-color: #3BB9FF; /* Darker shade on hover */
+  transform: translateY(-2px); /* Lift effect */
+}
+
+.swal-AccountOk{
+  background-color: rgba(0, 0, 0, 0.785);
+  color:white;
+  border-radius: 15px;
+  border: none;              /* No border */
+  cursor: pointer; 
+  font-weight: bold;  
+  padding: 10px 40px;  
+}
+.swal-AccountOk:hover{
+  transform: translateY(-2px);
+}
+.dashboard_body{
+  background-color:#EFECE7 ;
+}

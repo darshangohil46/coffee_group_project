@@ -1,0 +1,296 @@
+[
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/M107781.jpg",
+        "title": "Iced Stardust Macchiato",
+        "text": "Super smooth and creamy vanilla half and half crowned with s...",
+        "kcal": "",
+        "price": 456.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/M104014.jpg",
+        "title": "Mocha Cookie Crumble Latte",
+        "text": "Our Mocha Cookie crumble Latte is a deliciously flavoured mo...",
+        "kcal": " TALL(Iced Tall Stardust Macchiato) . ",
+        "price": 435.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/M107777.jpg",
+        "title": "Stardust Macchiato",
+        "text": "Super smooth and creamy vanilla half and half crowned with s...",
+        "kcal": " TALL(Iced Tall Stardust Macchiato) . ",
+        "price": 414.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/M104018.jpg",
+        "title": "Iced Mocha Cookie Crumble Latte",
+        "text": "Our Mocha Cookie crumble Latte is a deliciously flavoured mo...",
+        "kcal": "",
+        "price": 477.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100433.jpg",
+        "title": "Caffè Americano",
+        "text": "Rich, full-bodied espresso with hot water in true European ...",
+        "kcal": " 294 kcal ",
+        "price": 278.25
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Caffè Mocha",
+        "text": "We combine our Rich in flavour, full-bodied espresso with b...",
+        "kcal": "",
+        "price": 341.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100419.jpg",
+        "title": "Cappuccino",
+        "text": "Dark, Rich in flavour espresso lies in wait under a smoothed...",
+        "kcal": " SHORT(237 ML) .294 kcal ",
+        "price": 299.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100405.jpg",
+        "title": "Caramel Macchiato",
+        "text": "Freshly steamed milk with vanilla-flavored syrup is marked w...",
+        "kcal": " SHORT(237 ML) .294 kcal ",
+        "price": 362.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100377.jpg",
+        "title": "Caffe Latte",
+        "text": "Our dark, Rich in flavour espresso balanced with steamed mil...",
+        "kcal": "",
+        "price": 304.5
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Caramel Macchiato",
+        "text": "Freshly steamed milk with vanilla-flavored syrup is marked w...",
+        "kcal": "",
+        "price": 362.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/104068.jpg",
+        "title": "Chocolate Cappuccino",
+        "text": "Dark, Rich in flavour espresso and bittersweet cocoa lies in...",
+        "kcal": "",
+        "price": 372.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100391.jpg",
+        "title": "Caffè Mocha",
+        "text": "We combine our rich in flavour, full-bodied espresso with bi...",
+        "kcal": "",
+        "price": 341.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/107934.jpg",
+        "title": "Chocolate Cortado",
+        "text": "A perfect espresso shot and mocha sauce, topped with steamed...",
+        "kcal": " SHORT(Short Stardust Macchiato) . ",
+        "price": 351.75
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Chocolate Cappuccino",
+        "text": "Dark, Rich in flavour espresso and bittersweet cocoa lies in...",
+        "kcal": " SHORT(Short Stardust Macchiato) . ",
+        "price": 372.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100433.jpg",
+        "title": "Caffe Americano",
+        "text": "Rich in flavour, full-bodied espresso with hot water in true...",
+        "kcal": "",
+        "price": 278.25
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Chocolate Cortado",
+        "text": "A perfect espresso shot and mocha sauce, topped with steamed...",
+        "kcal": " 386 kcal ",
+        "price": 351.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/107329.jpg",
+        "title": "Cortado",
+        "text": "A perfect espresso shot topped with steamed milk.",
+        "kcal": " TALL(354 ML) .386 kcal ",
+        "price": 294.0
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Cortado",
+        "text": "A perfect espresso shot topped with steamed milk. 120 ML, 72...",
+        "kcal": " TALL(354 ML) .386 kcal ",
+        "price": 294.0
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100512.jpg",
+        "title": "Doppio Espresso",
+        "text": "Our smooth signature Espresso Roast and its caramelly sweetn...",
+        "kcal": "",
+        "price": 278.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/103973.jpg",
+        "title": "Flat White",
+        "text": "Expertly steamed milk poured over shots of ristretto and fin...",
+        "kcal": "",
+        "price": 330.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/107933.jpg",
+        "title": "Hazelnut Cortado",
+        "text": "A perfect espresso shot and hazelnut syrup, topped with stea...",
+        "kcal": "",
+        "price": 351.75
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Hazelnut Cortado",
+        "text": "A perfect espresso shot and hazelnut syrup, topped with stea...",
+        "kcal": " SHORT() . ",
+        "price": 351.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100441.jpg",
+        "title": "Iced Caffè Americano",
+        "text": "Espresso shots are topped with water to produce a light laye...",
+        "kcal": " SHORT() . ",
+        "price": 315.0
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Tall Iced Caffè Latte",
+        "text": "Our dark, rich espresso balanced with steamed milk and a lig...",
+        "kcal": "",
+        "price": 341.25
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Iced Caffè Mocha",
+        "text": "Espresso combined with bittersweet mocha sauce and milk and ...",
+        "kcal": "",
+        "price": 378.0
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100385.jpg",
+        "title": "Iced Caffè Latte",
+        "text": "Our dark, Rich in flavour espresso is combined with milk and...",
+        "kcal": "",
+        "price": 341.25
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100399.jpg",
+        "title": "Iced Caffè Mocha",
+        "text": "Espresso combined with bittersweet mocha sauce and milk and ...",
+        "kcal": "",
+        "price": 378.0
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Iced Cappuccino",
+        "text": "Signature Italian style Cappuccino with espresso shot, steam...",
+        "kcal": " SHORT() . ",
+        "price": 336.0
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100427.jpg",
+        "title": "Iced Cappuccino",
+        "text": "Signature Italian style Cappuccino with espresso shot, steam...",
+        "kcal": " SHORT() . ",
+        "price": 336.0
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Iced Chocolate Cappuccino",
+        "text": "Signature Italian style Cappuccino with espresso shot, mocha...",
+        "kcal": "",
+        "price": 409.5
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/104072.jpg",
+        "title": "Iced Chocolate Cappuccino",
+        "text": "Signature Italian style Cappuccino with espresso shot, mocha...",
+        "kcal": "",
+        "price": 409.5
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Iced Velvet Vanilla Latte",
+        "text": "Rich in texture, smooth, and creamy latte elevated with vani...",
+        "kcal": "",
+        "price": 435.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/108056.jpg",
+        "title": "Iced Velvet Vanilla Latte",
+        "text": "Rich in texture, smooth, and creamy latte elevated with vani...",
+        "kcal": "",
+        "price": 435.75
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Iced White Mocha",
+        "text": "Espresso combined with white mocha sauce and milk over ice. ...",
+        "kcal": " SHORT(237 ML) .104 Kcal ",
+        "price": 388.5
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Solo Espresso",
+        "text": "Our smooth signature Espresso Roast and its caramelly sweetn...",
+        "kcal": " SHORT(237 ML) .104 Kcal ",
+        "price": 262.5
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100485.jpg",
+        "title": "Iced White Mocha",
+        "text": "Espresso combined with white mocha sauce and milk over ice. ...",
+        "kcal": "",
+        "price": 388.5
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Vanilla Cortado",
+        "text": "A perfect espresso shot and vanilla syrup topped with steame...",
+        "kcal": "",
+        "price": 351.75
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "Velvet Vanilla Latte",
+        "text": "Our dark, Rich in flavour espresso balanced with vanilla fla...",
+        "kcal": "",
+        "price": 399.0
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/107932.jpg",
+        "title": "Vanilla Cortado",
+        "text": "A perfect espresso shot and vanilla syrup topped with steame...",
+        "kcal": "",
+        "price": 351.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/108052.jpg",
+        "title": "Velvet Vanilla Latte",
+        "text": "Our dark, Rich in flavour espresso balanced with vanilla fla...",
+        "kcal": " SHORT(237 ML) .162 kcal ",
+        "price": 399.0
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "White Mocha",
+        "text": "Our signature espresso meets white chocolate sauce and steam...",
+        "kcal": " SHORT(237 ML) .162 kcal ",
+        "price": 351.75
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/100477.jpg",
+        "title": "White Chocolate Mocha",
+        "text": "Our signature espresso meets white chocolate sauce and steam...",
+        "kcal": "",
+        "price": 351.75
+    }
+]

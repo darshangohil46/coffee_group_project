@@ -1,0 +1,23 @@
+[
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/103049.jpg",
+        "title": "Christmas Via",
+        "text": "Sweet and velvety, with notes of spiced chocolate and spruce...",
+        "kcal": "",
+        "price": 1000.0
+    },
+    {
+        "img": "https://starbucksstatic.cognizantorderserv.com/Items/Small/109616_1.jpg",
+        "title": "Diwali Blend",
+        "text": "Celebrate this Diwali in the best way we know how \u2013 with cof...",
+        "kcal": "",
+        "price": 1100.0
+    },
+    {
+        "img": "https://www.starbucks.in/assets/icon/placeholder.svg",
+        "title": "250G Voyage Blend",
+        "text": "Medium roast coffee from Brazil, Sumatra, and Zambia with no...",
+        "kcal": "",
+        "price": 1700.0
+    }
+]
